@@ -1,0 +1,6 @@
+psutil
+GPUtil
+pandas
+streamlit
+scikit-learn
+matplotlib
